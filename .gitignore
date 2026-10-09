@@ -1,0 +1,19 @@
+# Real credentials: never commit. Share db.properties.example instead.
+src/main/resources/db.properties
+
+# Maven build output
+target/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+out/
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# OS files
+.DS_Store
+Thumbs.db
